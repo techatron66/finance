@@ -12,7 +12,7 @@ The database models a simplified stock trading platform where users can maintain
 
 
 ## E-R diagram
-![alt text](<Screenshot 2026-02-04 at 12.26.49 PM.png>)
+![alt text](<Screenshot 2026-02-18 at 12.20.59 AM.png>)
 ![alt text](<Screenshot 2026-02-18 at 12.20.12 AM.png>)
 
 ---
