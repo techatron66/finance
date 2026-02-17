@@ -1,4 +1,4 @@
-# ![alt text](<Screenshot 2026-02-18 at 12.38.45 AM.png>)
+# ![alt text](<Screenshot 2026-02-18 at 12.41.02 AM.png>)
 
 This document describes the structure, relationships, and purpose of each table in `finance.db`, a SQLite database built for a dummy stock trading application.
 
